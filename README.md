@@ -14,7 +14,7 @@ This talk is specifically aimed at people who see themselfs as amateurs in scien
 
 ## Content Warning
 
-- [Mediaclism]()
+- [Medicalization](https://en.wikipedia.org/wiki/Medicalization)
 - [Fake Claiming]()
 - [Bad science]()
 
