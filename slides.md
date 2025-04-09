@@ -107,24 +107,27 @@ marp: true
 
 ### The history
 
-- Oldest Account 18xx
+- Earliest accounts since the end of the 18th Century¹
 - Freud: Trauma is always subconscious
 - 1970s: Sybil
-- 1980s: Satanic Panic
+- 1980s: Satanic Panic²
 - 1990s: False Memory
 - 2000s: Fantasy Model vs. Trauma Model
 - 2010s: MRI Scans + Neurodiversity
 
+<!--
+1: Richard J. Loewenstein (2018) Dissociation debates: everything you know
+is wrong, Dialogues in Clinical Neuroscience, 20:3, 229-242, DOI: 10.31887/DCNS.2018.20.3/rloewenstein
+2: Spanos, Nicholas P (1996) Multiple identities & false memories : a sociocognitive perspective
+-->
 ---
 
 ### Important keywords
 
-- Clinical features (28%)
-- Assessment (17%)
-- Etiology (17%)
-- Comorbidity (17%)
-- Cognitive Features (8%)
-- Treatment (7%)
+![bg contain left](images/research-percantages.png)
+
+- MRI
+- Case Study
 
 ---
 
@@ -140,9 +143,13 @@ marp: true
 
 ---
 
+![bg contain](images/chad-researcher.png)
+
+---
+
 ### The anatomy of a paper
 
-![bg contain left](images/paper_anatomy.png)
+![bg contain left](images/anatomy-of-a-paper.jpg)
 
 - Keywords
 <!-- Only a handful allowed -> good  overview of why the paper is important -->
