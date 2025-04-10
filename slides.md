@@ -13,9 +13,21 @@ marp: true
 ## Content Warning
 
 - **Bad Science**
-  - Medicalizing
+  - Medicalization
   - Fake Claiming
   - Abuse
+
+---
+
+## About us
+
+<br/><br/><br/>
+<small>github.com/plural-activism/presentation_introduction-to-plural-science</small>
+<!--
+- Podcast
+- Jemars Research Project
+- Github
+-->
 
 ---
 
@@ -29,7 +41,7 @@ marp: true
 
 ### 50% of the time, statistics is important all of the time
 
-![bg contain left](images/HomerSimpson.png)
+![bg contain left](./images/HomerSimpson.png)
 
 ---
 
@@ -49,13 +61,13 @@ marp: true
 
 ### Psychology
 
-![bg contain left](images/psychology.png)
+![bg contain left](./images/psychology.png)
 
 ---
 
 ### Selfcare
 
-![bg contain left](images/selfcare.png)
+![bg contain left](./images/selfcare.png)
 
 - Science is dehumanizing
 - Science can be overwhelming
@@ -68,7 +80,7 @@ marp: true
 
 ### Non-clinical plurality in science
 
-![bg contain](images/non_clinical_plurality.png)
+![bg contain](./images/non_clinical_plurality.png)
 
 <!-- Add screenshot of the list of all  papers we have about non-clinical plurality -->
 
@@ -116,6 +128,18 @@ marp: true
 - 2010s: MRI Scans + Neurodiversity
 
 <!--
+The history of plural research can be described of an history to overcome biases.
+
+We have a long history of evidence regarding dissociative disorders, but a lot of past stuff is very wacky, so lets start with
+
+Freud had some quite pecuiliar ideas about trauma, and couldn't really make too much sense of dissociation, he did however insist that trauma is to be stored in the subconcious, and being able to retrieve it disproofs his theories, which had to be done by systems to be taken serious.
+
+Then, in 1978 Sybil got published, it was popular and is credited to increase the 
+
+-->
+
+<!--
+Sources:
 1: Richard J. Loewenstein (2018) Dissociation debates: everything you know
 is wrong, Dialogues in Clinical Neuroscience, 20:3, 229-242, DOI: 10.31887/DCNS.2018.20.3/rloewenstein
 2: Spanos, Nicholas P (1996) Multiple identities & false memories : a sociocognitive perspective
@@ -124,7 +148,7 @@ is wrong, Dialogues in Clinical Neuroscience, 20:3, 229-242, DOI: 10.31887/DCNS.
 
 ### Important keywords
 
-![bg contain left](images/research-percantages.png)
+![bg contain left](./images/research-percantages.png)
 
 - MRI
 - Case Study
@@ -143,13 +167,13 @@ is wrong, Dialogues in Clinical Neuroscience, 20:3, 229-242, DOI: 10.31887/DCNS.
 
 ---
 
-![bg contain](images/chad-researcher.png)
+![bg contain](./images/chad-researcher.png)
 
 ---
 
 ### The anatomy of a paper
 
-![bg contain left](images/anatomy-of-a-paper.jpg)
+![bg contain left](./images/anatomy-of-a-paper.jpg)
 
 - Keywords
 <!-- Only a handful allowed -> good  overview of why the paper is important -->
