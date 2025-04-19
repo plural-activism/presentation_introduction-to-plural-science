@@ -21,7 +21,7 @@ paginate: true
     <li><b>Bad science</b>
     <ul>
       <li>Medicalism</li>
-      <li>Fale Claiming</li>
+      <li>Fake Claiming</li>
       <li>Abuse</li>
     </ul>
 </ul>
@@ -158,21 +158,25 @@ Then the highlight the most important result, in the case of this paper, the las
 
 ---
 
-![bg contain](images/methodology.png)
-
 <!-- Methodology -->
+
+![bg contain](images/methodology.png)
 
 <!-- 
 
-Reading Methodology can be tough
+Reading Methodology can be tough. And its the section in which statistics can become real handy. Your goals in this section should be:
+
+-
+
+A good was to achieve this is:
 
 -->
 
 ---
 
-![bg contain](images/results.png)
-
 <!-- Results -->
+
+![bg contain](images/results.png)
 
 <!-- 
 
@@ -213,7 +217,15 @@ A paper might contain super complex ideas, but it should make it as easy as poss
 
 - **Always** insist on peer review
 - Not perfect, but insures quality baselevel
-- Only Exception: **Arxiv**
+- Only Exception: **Arxiv**¹
+
+<!--
+
+-->
+
+<!--
+1: Source
+-->
 
 ---
 
@@ -221,6 +233,9 @@ A paper might contain super complex ideas, but it should make it as easy as poss
 
 - Type of data
 - Type of analysis
+
+![bg contain right](images/badMethodology.png)
+
 <!--
 - Sample size
 - Sample selection
