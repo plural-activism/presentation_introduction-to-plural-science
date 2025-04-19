@@ -374,6 +374,7 @@ So while its the basic quality measure, it should not be your only one.
 
 - Type of data
 - Type of analysis
+- "Does it make sense?"
 
 ![bg contain right](images/badMethodology.png)
 
@@ -542,7 +543,7 @@ Sources:
 - 2010s: MRI Scans + Neurodiversity
 
 <!--
-The history of plural research can be described of an history of overcoming biases, disbelief and abuse.
+The history of plural research can be described of an history of overcoming biases, disbelief and abuse. There is much of it in it, so lets get through it.
 
 We have a long history of evidence regarding dissociative disorders, but a lot of past stuff is very wacky, so lets start with
 
@@ -608,6 +609,20 @@ A. A. T. Simone Reinders, Antoon T. M Willemsen, Herry P. J. Vos, Johan A. den B
 <br/>
 > *Chose quote*
 
+<!--
+
+This paper does X
+
+-->
+
+---
+
+### What to learn?
+
+- How to do control groups?
+- Introduction to different models of plurality
+- Brainscience!
+
 ---
 
 ### Dissociative Identity Disorder
@@ -617,6 +632,20 @@ A. A. T. Simone Reinders, Antoon T. M Willemsen, Herry P. J. Vos, Johan A. den B
 Guy A. Boysen, 2024
 <br/>
 > *Choose quote*
+
+<!--
+
+This paper does X
+
+-->
+---
+
+### What to learn?
+
+- Getting an overview of the plural research of the 2010s
+- Noticing the focus of said research, as well as the under-researched topic
+- Check the statistics
+
 ---
 
 ### The Persistence of Folly: A Critical Examination of Dissociative Identity Disorder. Part I. The Excesses of an Improbable Concept
@@ -629,6 +658,20 @@ August Piper, Harold Mersky, 2004
 
 *[Argument from incredulity](https://en.wikipedia.org/wiki/Argument_from_incredulity)*
 
+<!--
+
+This paper does X
+
+-->
+
+---
+
+### What to learn?
+
+- The anatomy of a bad paper?
+- Debunking badly made arguments?
+- Noticing the lack of quality markers
+
 ---
 
 ### It’s just a body: A community-based participatory exploration of the experiences and health care needs for transgender plural people
@@ -636,6 +679,20 @@ August Piper, Harold Mersky, 2004
 Susan C. Turell, Christopher Wolf-Gould, Sana Flynn, Silver Mckie, Matthew A. Adan, The Redwoods, 2023
 <br/>
 > Academics have advocated for community-based participatory research as an important innovation to research with those in the transgender and gender non-conforming (TGNC) community (dickey, Hendricks & Bockting, 2016)Fine and Torre (2019) concluded that critical participatory action research with LGBTQIA+  youth “unveils the hidden” (p. 443) in ways that traditional research cannot.
+
+<!--
+
+This paper does X
+
+-->
+
+---
+
+### What to learn?
+
+- How to do inclusive research
+- The link between queerness and plurality
+- Proper qualitative research
 
 ---
 
