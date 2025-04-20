@@ -8,7 +8,7 @@ paginate: true
 
 ### An introduction to plural science for interested systems
 
-![bg right](images/scientistZeta.jpeg)
+![bg left](images/scientistZeta.jpeg)
 
 <!-- 
 
@@ -16,7 +16,7 @@ Do you know this?
 
 Someone makes an incredibly weird claim about all systems and treats it as absolute truth? Or some medical professional "does not believe in DID" and refuses treatment according to it?
 
-Wouldn't it be nice to be able to search and reference actual, scientific evidence for it? You&'ve come to the right talk. In the next 35 slides, I want to empower you to "do your own research" and give you some tools to evaluate if a study is good or badly done. Of course, this is an gigantic topic and if I'd try to cover it all, I'd make a course out of it and hand out credits, but I hope after we are done, you feel ready to start your own journey into plural science. Lets go.
+Wouldn't it be nice to be able to search and reference actual, scientific evidence for it? You&'ve come to the right talk. In the next 40 slides, I want to empower you to "do your own research" and give you some tools to evaluate if a study is good or badly done. Of course, this is an gigantic topic and if I'd try to cover it all, I'd make a course out of it and hand out credits, but I hope after we are done, you feel ready to start your own journey into plural science. Lets go.
 
 -->
 
@@ -79,6 +79,8 @@ For the obligatory self-plug
 
 ## Step 0: Preparations
 
+![bg contain](images/step0.png)
+
 <!--
 
 So, before we start our science journey, I want to give you& a handful of homework you might prepare before we jump into the depths of plural research. Don't worry, nobody is gonna test you on it.
@@ -104,6 +106,16 @@ While I'd love to teach you& all statistics, we don't have time to go into any d
 ---
 
 ### Theory of Science
+
+![bg contain right](images/TreeOfKnowledge.png)
+
+<!--
+
+If you& wanna do science, you have to understand how its done. Science is a collection of tools, ideas, methods and philosophies that have been grown over millennia. It involves the scientifc method, publication, discussion and peer-reviews, testing against evidence, the creation of hypthosis and many more things.
+
+In the following, I will focus on how to ingest scientific work, papers to be precise. That includes finding the right papers, how to read them, and ideally putting them into a bigger picture. There are many more concepts and ideas to take in, and I encourage you to let your curiosity lead you into a rabbit hole of ideas. Its fun.
+
+-->
 
 - **Find**
 - **Read**
@@ -159,6 +171,8 @@ It's important to reckognize when to take a break, and actually taking it. Be pr
 
 ## Step 1: Reading research
 
+![bg contain](images/step1.png)
+
 <!--
 
 So, everything ready? Them lets start to discuss how to actually approach science. In this step, i will give you an super broad overview of how scientific works ... work, and tips and tricks how to deal with them. When we are done, you hopefully feel ready to read your first scientific literature.
@@ -168,6 +182,8 @@ So, everything ready? Them lets start to discuss how to actually approach scienc
 ---
 
 ### What to read?
+
+![bg contain](images/whatToRead.png)
 
 <!--
 
@@ -215,6 +231,21 @@ I know asking for a paper might be a scary thing to do, but it often works. Basi
 
 ---
 
+### How to read a paper?
+
+![bg contain](images/howToReadAPaper.png)
+
+<!-- 
+1. Go from abstract to details
+2. Check for quality markers
+3. Backtrack information you dont know
+
+I will go a lot more into detail in the coming slides, but keep these 3 points in mind when ever you start reading a paper.
+
+-->
+
+---
+
 ### The anatomy of a paper
 
 ![bg contain right](./images/anatomy-of-a-paper.jpg)
@@ -223,7 +254,7 @@ I know asking for a paper might be a scary thing to do, but it often works. Basi
 
 On the right you see the different elements you commonly find in a paper, not every paper has all of these elements, and sometimes they are named a bit differently, but overall you can expect to find all these things.
 
-Now, I wanna you to focus on these four things only in the beginning. You sure can read the rest of the paper, but your effort should be put into Keywords, Abstract, Methodology and Results.
+Now, I wanna you to forget the rest and only focus on these four things only in the beginning. You sure can read the whole paper, but your effort should be put into Keywords, Abstract, Methodology and Results.
 
 I deviate here a bit from the advice you can commonly find, and with good reason. We don't want to read paper as quickly as possible. If you are following this far, take your time. What we want to do is to deeply understand how plural science is done, and build up an intuition of when a paper is doing some good research and when it is to be disregarded.
 
@@ -244,7 +275,7 @@ And there will be quite a few papers in your research journey that you can ignor
 
 <!-- Keywords -->
 
-![bg contain](images/keywords.png)
+![bg contain](images/paperKeywords.png)
 
 <!-- 
 
@@ -289,13 +320,18 @@ Paper / Image source:
 
 <!-- 
 
-Reading Methodology can be tough. And its the section in which statistics can become real handy. Your goals in this section should be:
+Methodology can be overwhelming. The authors of an paper use this section to explain what they have done, which theoretical approaches they used and how the dealt with potential problems. This section is the core of the academic work, and the concepts they use are often expected to be known. That means that you will have to do a lot of your own research to understand why the authors did what, but on the positive side, it means you will learn a lot about science.
 
--
+When you read the methodology you should:
 
-A good was to achieve this is:
+- Write down concepts you don't understand
+- Check if the authors still justify their approach
+- Think if "it makes sense", if not, is it because you are not familiar with the theories they use, or because it just doesn't make sense
+- Note down how people solve research problems with their methodology
 
--
+If you follow through, you will quickly develop an intuition for solid methods, and methods that are substandard. As well as an understanding of how people in the field usually do science.
+
+Oh, and there is one lacking diagram hidden in these slides, go find it!
 
 -->
 
@@ -332,6 +368,12 @@ Paper / Image source:
 
 #### Quality Markers: Is it easy to read?
 
+- Simple grammar, simple vocabulary
+- Clear tables and figures
+- Explain everything used
+- How many spelling mistakes?
+
+![bg contain right](images/IsIteasyToRead.png)
 <!-- 
 
 At first this sounds counterintuitive. Science is supposed to be rigorous, solving hard to grasp problems. The thing is though, scientific writing is a skill that can be practiced. The difference between a beginner scientist and a veteran is often how easy they can convey their ideas. And thats the second point why easy to read papers are important. A paper is the culmination of all the ideas, data and conclusions a scientist have, presented in a way so its accessible to the world. If the world cannot understand it, someone failed their assignment.
@@ -379,10 +421,16 @@ So while its the basic quality measure, it should not be your only one.
 ![bg contain right](images/badMethodology.png)
 
 <!--
+
+This is a tricky quality marker for beginners, I still think you should have a look at it. Check if the authors explain sufficiently what they are doing, how they will prove or disprove their hypothesis with it and if they acknowledge any limitations in their approach.
+
+Once you feel more comfortable with checking methodologies, focus on
+
 - Sample size
 - Sample selection
-- Sample diversity
-- Sample representativity
+- Type of test
+- Does the method fit
+
 -->
 
 ---
@@ -454,7 +502,9 @@ A lot of people suggest to do some research on the authors who wrote the paper, 
 
 ---
 
-## Step 3: The field of plural science
+## Step 2: The field of plural science
+
+![bg contain](images/step2.png)
 
 <!--
 
@@ -482,12 +532,9 @@ As a matter of fact, most of plurality research soley resolves around DID.
 
 ---
 
+![bg contain](images/faultLines.png)
+
 ### The fault lines
-
-#### Etiology
-
-- Fantasy: Itratiogenic / Socio-cognitive Model
-- Trauma: Biologocial / Structural Dissocation Model
 
 <!--
 
@@ -495,15 +542,23 @@ In Plural research, you have to major factions that have been at odds for the la
 
 They are split around the question of "How is it made"?
 
-On the Left side, we have the fantasy model, that very broadly proclaims that people get plural because they have consumed too much plural media or their therapist convinced them. While i make it sound ridiculous and there is even after twenty years no substantial evidence supporting these models, it is important to understand that they have a historic background.
+On the right side, we have the fantasy model, that very broadly proclaims that people get plural because they have consumed too much plural media or their therapist convinced them. While i make it sound ridiculous and there is even after twenty years no substantial evidence supporting these models, it is important to understand that they have a historic background.
 
-On the right side stands the trauma model. It has a couple of different sub models, but they overall propose that plurality is the result of profund childhood trauma. There is a lot more evidence that support these models, but it is important to note that neither of these models can really explain the experience of plurality, be it clinical or non-clinical - either.
+On the left side stands the trauma model. It has a couple of different sub models, but they overall propose that plurality is the result of profund childhood trauma. There is a lot more evidence that support these models, but it is important to note that neither of these models can really explain the experience of plurality, be it clinical or non-clinical - either.
 
 -->
 
 ---
 
-### The celebrities
+![bg contain](images/chooseYourScientist.png)
+
+<!--
+
+There are many important names in the field, listed here are just the ones I think you will almost certainly encounter. Despite what I said about appeal to authority, I think its useful to have a quick read of the biography of Janet, Kluft, Reinders and Van der Hart, even when its not always savory. And yes, I will butcher their names as much as I want.
+
+-->
+
+<!--
 
 - Simone Reinders
 - Richard Kluft
@@ -512,14 +567,6 @@ On the right side stands the trauma model. It has a couple of different sub mode
 - Janina Fisher
 - Bessel van der Kolk
 - Pierre Janet
-
-<!--
-
-I gonna do this once I have a proper graphic for the slide
-
--->
-
-<!--
 Sources: 
 -  https://en.wikipedia.org/wiki/Judith_Lewis_Herman
 - https://en.wikipedia.org/wiki/Allan_Schore
@@ -534,13 +581,7 @@ Sources:
 
 ### The history
 
-- Earliest accounts since the end of the 18th Century¹
-- Freud: Trauma is always subconscious
-- 1970s: Sybil
-- 1980s: Satanic Panic²
-- 1990s: False Memory
-- 2000s: Fantasy Model vs. Trauma Model
-- 2010s: MRI Scans + Neurodiversity
+![bg contain](images/pluralHistory.png)
 
 <!--
 The history of plural research can be described of an history of overcoming biases, disbelief and abuse. There is much of it in it, so lets get through it.
@@ -571,17 +612,15 @@ is wrong, Dialogues in Clinical Neuroscience, 20:3, 229-242, DOI: 10.31887/DCNS.
 -->
 ---
 
-### Important keywords
+### Important Keywords
 
-![bg contain left](./images/research-percantages.png)
-
-- MRI¹
-- Case Study²
-- Hypothesis³
+![bg contain](./images/keywords.png)
 
 <!--
 
-Will do once I have all keywordsi in the list
+On the right, you can find a handfull of keywords that might aid you on Google Scholar. I do however want you& to focus on the chart on the left, it features the most common research topics found in the 2010s. You can see the most attention got to clinical symptoms. It get followed egually by Assesment, so diagnostics, etiology, so the origin of plurality and comorbidity, that is mostly trauma-related issues and differences to other diagnosis. Cognitive features mostly mean systems into an MRI scanner and watching their brain do plural stuff, and the least common topic was treatment of clinical plurality.
+
+I'll keep at as an exercise for the viewer to come to their own conclusions over this statistics.
 
 -->
 
@@ -595,6 +634,8 @@ Sources:
 
 ## Step 4:  Examples
 
+![bg contain](images/step3.png)
+
 <!--
 
 After we got an broad overview of the field of plural science, I want to give you four papers you can start to test your skills.
@@ -607,11 +648,12 @@ After we got an broad overview of the field of plural science, I want to give yo
 
 A. A. T. Simone Reinders, Antoon T. M Willemsen, Herry P. J. Vos, Johan A. den Boer, Ellert R. S. Nijenhuis, 2012
 <br/>
-> *Chose quote*
+> *The findings are at odds with the idea that differences among different types of dissociative
+identity states in DID can be explained by high fantasy proneness, motivated role-enactment, and suggestion. They indicate that DID does not have a sociocultural (e.g., iatrogenic) origin.*
 
 <!--
 
-This paper does X
+This is probably the most important paper of the last 20 years. They have tested 11 systems, and two control groups with 10 "high fantasy prone" participants and 8 "low fantasy prone participants. They trained the control groups to emulate the experiences of DID systems, specifically the trauma trigger response of trauma-holder (they call them Emotional parts) and non-trauma holder (Apparently normal parts). Then, they put everyone in an MRI, to scan their brain activity when exposed to trauma. We are not well-versed enough to judge the neuroscience part, but the statistics show that there is a significant difference between trauma-holder and non-trauma holder, while there is no measurable difference with either the high or low fantasy prone control groups.
 
 -->
 
@@ -623,19 +665,33 @@ This paper does X
 - Introduction to different models of plurality
 - Brainscience!
 
+<!--
+
+The paper is important because it shows clear evidence that disproves fundamental assumptions of the fantasy model. I want to also highlight that the paper specifically checks for trauma responses, it does not make any statements about plurality that is not related to trauma.
+
+Overall its a very solid study that still holds up, and a great example to start to learn how good science might look like, but also where the limits of a paper can be. It also introduces us to the different models of plurality, which you& will encounter alot on your research journey.
+
+And of course, brain science is awesome!
+
+-->
+
 ---
 
 ### Dissociative Identity Disorder
 
-#### Review of Research From 2011 to 2021
+### Review of Research From 2011 to 2021
 
 Guy A. Boysen, 2024
 <br/>
-> *Choose quote*
+> *In conclusion, trends in DID research have been steady over the
+last two decades. Studies emerged between 2011 and 2021 at an in-
+creased rate over the previous decade. Cases of DID came from across
+the world, with the majority being from the West. Despite this global
+reach, identifying new cases of DID for study appears to be difficult.*
 
 <!--
 
-This paper does X
+Next up is a meta study. It takes a look at 63 studies published between 2011 and 2021. As such, it is a great starting point to see what is out there, even when its a bit incomplete. It analyses the different research topics and puts great effort into highlighting the low amount of examined cases in DID research.
 
 -->
 ---
@@ -645,6 +701,12 @@ This paper does X
 - Getting an overview of the plural research of the 2010s
 - Noticing the focus of said research, as well as the under-researched topic
 - Check the statistics
+
+<!--
+
+So, if you want to get an overview of plural research, read this meta study. Its also a good exercises in checking if the statistics actually work out.
+
+-->
 
 ---
 
@@ -660,7 +722,7 @@ August Piper, Harold Mersky, 2004
 
 <!--
 
-This paper does X
+This paper tries to debunk DID. It is not very successful, or well written, but thats why I added it to the list. It is more of an opinion piece and does not introduce any new evidence, but uses existing one. I have to trigger warn you about it, it does massive fake claiming in both dissociation and trauma experiences.
 
 -->
 
@@ -672,6 +734,12 @@ This paper does X
 - Debunking badly made arguments?
 - Noticing the lack of quality markers
 
+<!--
+
+So why should you read it? To learn all the hallmarks of bad science. Its also a great exercise to critically think through the claims the author makes. Or to see what the author doesn't do. This shouldn't be the first paper you read, but it prepares you well for the bad papers out there.
+
+-->
+
 ---
 
 ### It’s just a body: A community-based participatory exploration of the experiences and health care needs for transgender plural people
@@ -682,7 +750,7 @@ Susan C. Turell, Christopher Wolf-Gould, Sana Flynn, Silver Mckie, Matthew A. Ad
 
 <!--
 
-This paper does X
+To round up the selection on a positive note, and to counter the last paper, I want to show you the "It's just a body". It was co-written by the Redwoods, who had talks themselfs here at PPWC. The paper tries to examine the interconnection of queerness, and more specifically gender-queerness and plurality. It interviews 13 systems and analyzes their answers constructivist grounded theory. They find a complex relationship between bodies and those who inhibit them and the problems those face, when they try to find medical aid.
 
 -->
 
@@ -693,6 +761,14 @@ This paper does X
 - How to do inclusive research
 - The link between queerness and plurality
 - Proper qualitative research
+
+<!--
+
+You should read the paper if you want to find new approaches to interact with participants. It has a great collection of references to papers, studies and ideas that challenge the classic research approaches. It of course also is one of the very few papers that examines the connection of queerness and plurality, a topic that I'm interested in.
+
+And of course, if you want to know what grounded theory looks like in practice, read the paper!
+
+-->
 
 ---
 
